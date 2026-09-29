@@ -27,3 +27,16 @@
     }
   }
 }
+.formatoheader {
+  /* display: flex;
+  justify-content: space-between; */
+  background-color: brown;
+  img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+  }
+  a:hover{
+    color: white;
+  }
+}
